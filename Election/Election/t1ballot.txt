@@ -1,0 +1,30 @@
+VADER, Darth
+BUCKETHEAD, Lord
+MOTHER OF DRAGONS, Daenerys
+LOBLAW, Robert
+WOMAN, Wonder
+VADER, Darth	5
+LOBLAW, Robert	3
+BUCKETHEAD, Lord	4
+WOMAN, Wonder	2
+MOTHER OF DRAGONS, Daenerys	1
+LOBLAW, Robert	3
+VADER, Darth	2
+WOMAN, Wonder	5
+MOTHER OF DRAGONS, Daenerys	1
+BUCKETHEAD, Lord	4
+MOTHER OF DRAGONS, Daenerys	2
+LOBLAW, Robert	3
+WOMAN, Wonder	5
+BUCKETHEAD, Lord	1
+VADER, Darth	4
+BUCKETHEAD, Lord	1
+WOMAN, Wonder	3
+VADER, Darth	2
+LOBLAW, Robert	5
+MOTHER OF DRAGONS, Daenerys	4
+LOBLAW, Robert	2
+MOTHER OF DRAGONS, Daenerys	3
+VADER, Darth	1
+BUCKETHEAD, Lord	5
+WOMAN, Wonder	4
